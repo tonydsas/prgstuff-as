@@ -1,3 +1,7 @@
+# written by tonydsas
+# https://www.github.com/tonydsas
+# please see LICENSE for more info
+
 doTerminalClears = True
 
 class screen:
