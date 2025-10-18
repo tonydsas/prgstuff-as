@@ -22,7 +22,7 @@ class screen:
                 outputString += v
             print(outputString)
     
-    def addOutput(self,xPos:int,yPos:int,character:int):
+    def addOutput(self,xPos:int,yPos:int,character:str):
         if len(character) != 1:
             return
         if len(self.screen) < yPos:
