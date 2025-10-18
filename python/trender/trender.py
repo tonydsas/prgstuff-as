@@ -1,6 +1,6 @@
 # written by tonydsas
 # https://www.github.com/tonydsas
-# please see LICENSE for more info
+# please see tonydsas/prgstuff-as LICENSE file for more info
 
 doTerminalClears = True
 
